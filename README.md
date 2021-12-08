@@ -1,5 +1,5 @@
-# MI-462-portfloio\n
-This portfolio is the final project for Dr. Pursell's class. It includes final deliverables for the following: \n
+# MI-462-portfloio  
+This portfolio is the final project for Dr. Pursell's class. It includes final deliverables for the following:  
 MG226 - Tableau Data Visualization Project
 CS260 - Database Analysis Project Using Python 
 CS360 - Database Preparation Project Using SQL (This used to be in 260, but I took the courses in reverse order and they changed the curriculum)
