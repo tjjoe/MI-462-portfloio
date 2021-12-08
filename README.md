@@ -1,4 +1,4 @@
-# MI-462-portfloio  
+# MI-462-portfolio  
 This portfolio is the final project for Dr. Pursell's class. It includes final deliverables for the following:  
 MG226 - Tableau Data Visualization Project  
 CS260 - Database Analysis Project Using Python  
