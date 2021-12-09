@@ -9,4 +9,4 @@ This portfolio is the final project for Dr. Pursell's class. This portfolio incl
 [MI353 - Data Mining Project in SAS](https://github.com/tjjoe/MI-462-portfolio/blob/main/MI353FinalPresentation.pdf)  
 [MI462 - RPA Project](https://github.com/tjjoe/MI-462-portfolio/blob/main/RPA.pdf)  
 [MI462 - Pytorch Code in Colab](https://github.com/tjjoe/MI-462-portfolio/blob/main/Copy%20of%20transfer_learning_tutorial.ipynb%20-%20Colaboratory.pdf)  
-MI462 - Design Thinking  
+[MI462 - Design Thinking](https://github.com/tjjoe/MI-462-portfolio/blob/main/Design%20Thinking.pdf)
