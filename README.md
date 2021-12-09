@@ -7,4 +7,4 @@ MI353 - Data Mining Project in SAS
 MI462 - RPA Project  
 MI462 - Pytorch Code in Colab  
 MI462 - Design Thinking  
-[MG226PPT](ggg)
+[MG226PPT](https://github.com/tjjoe/MI-462-portfolio/blob/main/MG226FinalProjectPowerpoint.pptx)
