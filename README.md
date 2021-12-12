@@ -1,4 +1,4 @@
-# MI-462-portfolio  
+# Data Analytics Portfolio  
 Hello. My name is TJ Augustine and I am a senior at DeSales University. I am a computer sciecne major aith minors in both mathematics and data analytics. I amcurrently searching for a career in data analytics. I have begun looking for companies in the Lehigh Valley area, but at the same time have been looking into sports analytics careers. This is my portfolio that includes deliverables for all of the classes involved in the DeSales Data Analytics minor.  
   
 [Design Thinking Statement](https://github.com/tjjoe/MI-462-portfolio/blob/main/Design%20Thinking.pdf)  
