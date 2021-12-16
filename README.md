@@ -3,7 +3,7 @@ Hello. My name is TJ Augustine and I am a senior at DeSales University. I am a c
   
 [Design Thinking Statement](https://github.com/tjjoe/MI-462-portfolio/blob/main/Design%20Thinking.pdf)  
 [Tableau - Data Visualization Project](https://github.com/tjjoe/MI-462-portfolio/blob/main/MG226FinalProjectPowerpoint.pdf)  
-[Python 0 Database Analysis Project in Jupyter Notebook](https://github.com/tjjoe/MI-462-portfolio/blob/main/CS260FinalProject.pdf)  
+[Python  Database Analysis Project in Jupyter Notebook](https://github.com/tjjoe/MI-462-portfolio/blob/main/Final_AK_DS_TA%20(1).ipynb)  
 [SQL Notebook #1](https://github.com/tjjoe/MI-462-portfolio/tree/main/HW7_SQL1_YourLastName)  
 [SQL Notebook #2](https://github.com/tjjoe/MI-462-portfolio/tree/main/HW8_SQL2_Augustine)  
 [SQL - Final Project Objective](https://github.com/tjjoe/MI-462-portfolio/blob/main/Database%20Project.pdf)  
