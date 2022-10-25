@@ -1,5 +1,5 @@
 # Data Analytics Portfolio  
-Hello. My name is TJ Augustine and I am a senior at DeSales University. I am a computer sciecne major aith minors in both mathematics and data analytics. I amcurrently searching for a career in data analytics. I have begun looking for companies in the Lehigh Valley area, but at the same time have been looking into sports analytics careers. This is my portfolio that includes deliverables for all of the classes involved in the DeSales Data Analytics minor.  
+Hello. My name is Terry J Augustine and I am a 2022 graduate of DeSales University. I have my bachelors degree in computer science with a dual minor in mathematics and data analytics. I am currently searching for a career with a strong company in data analytics. I completed work on a project basis for Thread Bioscience Inc. that included work in SQL, Python, Tableau, and various other programs. Unfortunately I cannot show that work due to both Hippa laws and intellecual property belonging to them. This is my portfolio that includes deliverables for all of the classes involved in the DeSales Data Analytics minor.  
   
 [Design Thinking Statement](https://github.com/tjjoe/MI-462-portfolio/blob/main/Design%20Thinking.pdf)  
 [Tableau - Data Visualization Project](https://github.com/tjjoe/MI-462-portfolio/blob/main/MG226FinalProjectPowerpoint.pdf)  
